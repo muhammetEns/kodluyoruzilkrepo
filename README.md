@@ -19,3 +19,15 @@ bu adımdan sonra repo açılmış olacakatır.
 
 # Repoyu Terminalsiz Klonlamak
 
+![resim](https://i.hizliresim.com/iu907zt.jpg)
+
+Kırmızı ile işaretli alandan repoyu klaonlaya tıklıyoruz.
+
+***
+![](https://i.hizliresim.com/satr6is.jpg)
+
+İşaretli alana repomuzun linkini girdikten  sonra repoyu açabilirsiniz.
+***
+
+Okuduğunuz için teşekkürler.
+
